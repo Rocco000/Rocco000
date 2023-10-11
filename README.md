@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me
+Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). At the moment, I'm doing a Master's degree in Software Engineering and IT management at UNISA. I have loved computer science since high school because I believe we can realize our ideas with it. Moreover, I'm very fascinated by AI, especially deep learning and how we can use it to help humans in various tasks. Therefore, my goal is to grow my knowledge in this field and I'm always ready to learn new concepts and to broaden my cultural background.
+<!--👋 -->
 
 <!--
 **Rocco000/Rocco000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
