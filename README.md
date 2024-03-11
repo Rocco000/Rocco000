@@ -4,17 +4,16 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## 🧰 Languages and Tools:
 <p align="center">
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <img src="./icons/Python-Dark.svg" width="48">
+  <img src="./icons/Java-Dark.svg" width="48">
+  <img src="./icons/C.svg" width="48">
+  <img src="./icons/CS.svg" width="48">
+  <img src="./icons/R-Dark.svg" width="48">
+  <img src="./icons/MySQL-Dark.svg" width="48">
+  <img src="./icons/MongoDB.svg" width="48">
+  <img src="./icons/Bootstrap.svg" width="48">
+  <img src="./icons/HTML.svg" width="48">
+  <img src="./icons/JavaScript.svg" width="48">
 </p>
 
 ## 🤖​ ML/DL:
