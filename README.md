@@ -4,26 +4,14 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## 🧰 Languages and Tools:
 <p align="center">
-  
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Python-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Java-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/C.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/CS.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/R-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/MySQL-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/MongoDB.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Bootstrap.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/HTML.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/JavaScript.svg" width="48">
+
+  [![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,r,mysql,mongodb,bootstrap,html,js)](https://skillicons.dev)
 </p>
 
 ## 🤖​ ML/DL:
 <p align="center">
-  
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/PyTorch-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/TensorFlow-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/ScikitLearn-Dark.svg" width="48">
-  
+
+  [![My AiSkills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
   ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -32,17 +20,14 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## IDE:
 <p align="center">
-  
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/VSCode-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Idea-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Eclipse-Dark.svg" width="48">
+
+  [![My EditorSkills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)
 </p>
   
 ## 💻​ OS:
 <p align="center">
 
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Windows-Dark.svg" width="48">
-  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Ubuntu-Dark.svg" width="48">
+  [![My EditorSkills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 </p>
 
 <!--👋 -->
