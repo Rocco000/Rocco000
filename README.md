@@ -4,24 +4,23 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## 🧰 Languages and Tools:
 <p align="center">
-  <img src="./icons/Python-Dark.svg" width="48">
-  <img src="./icons/Java-Dark.svg" width="48">
-  <img src="./icons/C.svg" width="48">
-  <img src="./icons/CS.svg" width="48">
-  <img src="./icons/R-Dark.svg" width="48">
-  <img src="./icons/MySQL-Dark.svg" width="48">
-  <img src="./icons/MongoDB.svg" width="48">
-  <img src="./icons/Bootstrap.svg" width="48">
-  <img src="./icons/HTML.svg" width="48">
-  <img src="./icons/JavaScript.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Python-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Java-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/C.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/CS.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/R-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/MySQL-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/MongoDB.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Bootstrap.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/HTML.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/JavaScript.svg" width="48">
 </p>
 
 ## 🤖​ ML/DL:
 <p align="center">
-  
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/PyTorch-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/TensorFlow-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/ScikitLearn-Dark.svg" width="48">
   ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -30,17 +29,16 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## IDE:
 <p align="center">
-
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/VSCode-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Idea-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Eclipse-Dark.svg" width="48">
 </p>
   
 ## 💻​ OS:
 <p align="center">
 
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Windows-Dark.svg" width="48">
+  <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Ubuntu-Dark.svg" width="48">
 </p>
 
 <!--👋 -->
