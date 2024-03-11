@@ -4,6 +4,7 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## 🧰 Languages and Tools:
 <p align="center">
+  
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Python-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Java-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/C.svg" width="48">
@@ -18,9 +19,11 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## 🤖​ ML/DL:
 <p align="center">
+  
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/PyTorch-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/TensorFlow-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/ScikitLearn-Dark.svg" width="48">
+  
   ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -29,6 +32,7 @@ Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). 
 
 ## IDE:
 <p align="center">
+  
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/VSCode-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Idea-Dark.svg" width="48">
   <img src="https://github.com/tandpfun/skill-icons/tree/main/icons/Eclipse-Dark.svg" width="48">
