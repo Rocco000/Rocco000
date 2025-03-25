@@ -1,5 +1,5 @@
 ## 👋​ About me:
-Hi, I'm Rocco a graduate student in Università degli Studi di Salerno (UNISA). At the moment, I'm doing a Master's degree in Software Engineering and IT management at UNISA. I have loved computer science since high school because I believe we can realize our ideas with it. Moreover, I'm very fascinated by AI, especially deep learning and how we can use it to help humans in various tasks. Therefore, my goal is to grow my knowledge in this field and I'm always ready to learn new concepts and to broaden my cultural background.
+Hi, I'm Rocco Iuliano, a Master's graduate student at the University of Salerno with a specialization in Software Engineering and IT Management. My passion for computer science began in high school. I firmly believe that well-engineered software is the foundation of innovation, enabling us to build scalable, efficient, and impactful solutions. Moreover, I'm very fascinated by AI and its ability to revolutionize industries, solve complex tasks, and enhance human capabilities. My goal is to improve my knowledge in AI and explore its applications across various fields. I'm always ready to learn new concepts and broaden my cultural background.
 
 
 ## 🧰 Languages and Tools:
