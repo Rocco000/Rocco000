@@ -1,11 +1,40 @@
-## 👋​ About me:
-Hi, I'm Rocco Iuliano, a Master's graduate student at the University of Salerno with a specialization in Software Engineering and IT Management. My passion for computer science began in high school. I firmly believe that well-engineered software is the foundation of innovation, enabling us to build scalable, efficient, and impactful solutions. Moreover, I'm very fascinated by AI and its ability to revolutionize industries, solve complex tasks, and enhance human capabilities. My goal is to improve my knowledge in AI and explore its applications across various fields. I'm always ready to learn new concepts and broaden my cultural background.
+<h1 align="center">Hi👋​, I'm Rocco Iuliano</h1>
 
+## 🧑🏻‍💻 About me:
+I'm a Master's graduate in Computer Science at the University of Salerno with a specialization in Software Engineering and IT Management. My passion for computer science began in high school. I firmly believe that well-engineered software is the foundation of innovation, enabling us to build scalable, efficient, and impactful solutions.
+
+## 🔍 Interests:
+  - 🤖 Artificial Intelligence
+  - 👁️ Computer Vision
+  - 🎨 Generative models
+  - 🗃️ Data Engineering
+  - 🛠️ Software engineering
+  
+  🎯 My goal is to continuously expand my knowledge in these domains and explore how AI can be applied across diverse fields. I'm always eager to learn, grow, and contribute to meaningful projects.
+
+## 📚 Education:
+  🎓 Master's Degree in Computer Science (curriculum: Software Engineering and IT Management)
+  📆 02/2025
+  📍 University of Salerno (Italy)
+
+  🌍 Erasmus+ Traineeship
+  📆 03/2024 - 06/2024
+  📍 Jheronimus Academy of Data Science (Netherlands)
+
+  🎓 Bachelor's Degree in Computer Science
+  📆 10/2022
+  📍 University of Salerno (Italy)
+
+## How to reach me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/rocco-iuliano/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:rocco.iul2000+github@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
 ## 🧰 Languages and Tools:
 <p align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=py,java,c,cs,r,mysql,mongodb,bootstrap,html,js)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,cs,r,mysql,mongodb,dart,flutter,html,js)](https://skillicons.dev)
 </p>
 
 ## 🤖​ ML/DL:
