@@ -7,6 +7,7 @@ I'm a Master's graduate in Computer Science at the University of Salerno with a 
   - 🤖 Artificial Intelligence
   - 👁️ Computer Vision
   - 🎨 Generative models
+  - 🧠 Natural Language Processing (NLP)
   - 🗃️ Data Engineering
   - 🛠️ Software engineering
   
@@ -59,6 +60,10 @@ I'm a Master's graduate in Computer Science at the University of Salerno with a 
   [![My EditorSkills](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
 </p>
 
+## ✨ Hobbies:
+  - ✈️ Traveling and exploring new cultures
+  - 🎮 Gaming
+  - 💪🏼 Gym
 <!--👋 -->
 
 <!--
